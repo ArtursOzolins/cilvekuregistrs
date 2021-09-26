@@ -1,0 +1,17 @@
+{
+    "name": "arthur/peopledata",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arturs Ozolins",
+            "email": "arturs.ozolins94@gmail.com"
+        }
+    ],
+    "require": {
+        "league/csv": "^9.7"
+    }
+}
